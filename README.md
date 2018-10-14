@@ -1,9 +1,9 @@
 # shadowsocks-manager-go
 
-## TODOLIST
+## TodoList
 
-| State | TodoItem |
-| -- | -------- |
-| [x] | create shadowsock-libev dockerfile to enable ss-manager |
-| [] | create shadowsocks-manager-web |
-| [] | create shadowsocks-manager-web dockerfile |
+- [x] create shadowsock-libev dockerfile to enable ss-manager
+
+- [ ] create shadowsocks-manager-web
+
+- [ ] create shadowsocks-manager-web dockerfile
